@@ -5,19 +5,19 @@
 require("./system/module.js")
 
 // >~~~~~~ Setting Bot & Owner  ~~~~~~~< //
-global.owner = "923350963366"
-global.namabot = "famofc bot v12" 
-global.namaowner = " famofc"
-global.linkgc = 'https://chat.whatsapp.com/'
-global.linksaluran = "https://whatsapp.com/channel/"
+global.owner = "94775181738"
+global.namabot = " ʟᴀʀᴀ ᴍᴅ 4ᴠ" 
+global.namaowner = "Sadeesha Coder"
+global.linkgc = 'https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4?mode=ac_t'
+global.linksaluran = "https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J"
 global.fotomenu = "https://img1.pixhost.to/images/7296/623098761_imgtmp.jpg"
-global.packname = "Vertin"
-global.author = "YASSxOFC"
+global.packname = "Lara-MD"
+global.author = "Sadeesha Coder"
 
 
 // >~~~~~~~~ Setting Channel ~~~~~~~~~< //
-global.idsaluran = "120363390114292114@newsletter"
-global.namasaluran = "Vertin [ Whatsapp Channel ]"
+global.idsaluran = "120363192254044294@newsletter"
+global.namasaluran = "Lara"
 
 
 global.image = "https://img1.pixhost.to/images/7296/623098761_imgtmp.jpg"
